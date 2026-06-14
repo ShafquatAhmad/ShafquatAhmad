@@ -1,10 +1,17 @@
 <div align="center">
-<img 
-  src="https://raw.githubusercontent.com/ShafquatAhmad/ShafquatAhmad/main/banner.jpg" alt="Shafquat Ahmad Banner" width="100%" 
-  alt="Welcome animation"
-/>
+  <img src="https://raw.githubusercontent.com/ShafquatAhmad/ShafquatAhmad/main/banner.jpg" alt="Shafquat Ahmad Banner" width="100%" />
+</div>
+
+<br/>
+
+<!-- TYPING ANIMATION -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Shafquat+Ahmad+%F0%9F%91%8B;Frontend+Developer;Open+Source+Contributor" alt="Typing SVG" />
+</div>
 
 ---
+
+<div align="center">
 
 <h3>Connect with me</h3>
 
@@ -19,14 +26,14 @@
 
 <h2>About me</h2>
 
-Hello, I'm **Shafquat Ahmad** — a Frontend Developer focused on building clean, scalable web applications.
+Hello, I'm **Shafquat Ahmad** — a Frontend Developer focused on building clean, scalable web applications.  
 I value learning, open source, and long-term growth over hype.
 
 <br/>
 
-**BCA Student @ Allenhouse Business School, Kanpur**
-**HTML / CSS / JavaScript / WordPress**
-**GSSoC 2026 Open Source Contributor**
+**BCA Student @ Allenhouse Business School, Kanpur**  
+**HTML / CSS / JavaScript / WordPress**  
+**GSSoC 2026 Open Source Contributor**  
 **Won 2nd Rank & Medal at ASDC**
 
 </div>
@@ -77,7 +84,7 @@ I value learning, open source, and long-term growth over hype.
 </td>
 <td width="50%" align="center">
   <h4>GitHub Stats</h4>
-  <img src="https://github-readme-stats.vercel.app/api?username=ShafquatAhmad&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ShafquatAhmad&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&include_all_commits=true" alt="GitHub Stats" />
 </td>
 </tr>
 </table>
@@ -89,6 +96,12 @@ I value learning, open source, and long-term growth over hype.
 <h3>Contribution Graph</h3>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShafquatAhmad&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area_color=ffffff&area=true&hide_border=true&custom_title=Shafquat%20Ahmad's%20Contribution%20Graph" alt="Activity Graph" width="100%" />
+
+<br/><br/>
+
+<h3>Contribution Snake</h3>
+
+<img src="https://raw.githubusercontent.com/ShafquatAhmad/ShafquatAhmad/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%" />
 
 </div>
 
