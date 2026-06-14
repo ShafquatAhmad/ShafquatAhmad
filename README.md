@@ -1,6 +1,6 @@
 <div align="center">
 <img 
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=200&section=header&text=Welcome%20to%20Shafquat's%20Github&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20GSSoC%202026%20Contributor&descAlignY=55&descColor=aaaaaa"
+  src="https://raw.githubusercontent.com/ShafquatAhmad/ShafquatAhmad/main/banner.jpg" alt="Shafquat Ahmad Banner" width="100%" 
   alt="Welcome animation"
 />
 
