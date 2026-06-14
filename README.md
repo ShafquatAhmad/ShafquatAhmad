@@ -1,30 +1,15 @@
-</div>
+<div align="center">
+<img 
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=200&section=header&text=Welcome%20to%20Shafquat's%20Github&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20GSSoC%202026%20Contributor&descAlignY=55&descColor=aaaaaa"
+  alt="Welcome animation"
+/>
 
 ---
 
-<div align="center">
+<h3>Connect with me</h3>
 
-## 🛠️ Technologies
-
-### Core Technologies
-
-![HTML5](https://img.shields.io/badge/HTML5-2d1b69?style=flat-square&logo=html5&logoColor=c084fc)
-![CSS3](https://img.shields.io/badge/CSS3-2d1b69?style=flat-square&logo=css3&logoColor=c084fc)
-![JavaScript](https://img.shields.io/badge/JavaScript-2d1b69?style=flat-square&logo=javascript&logoColor=c084fc)
-![Python](https://img.shields.io/badge/Python-2d1b69?style=flat-square&logo=python&logoColor=c084fc)
-![Git](https://img.shields.io/badge/Git-2d1b69?style=flat-square&logo=git&logoColor=c084fc)
-![GitHub](https://img.shields.io/badge/GitHub-2d1b69?style=flat-square&logo=github&logoColor=c084fc)
-
-### CMS & Tools
-
-![WordPress](https://img.shields.io/badge/WordPress-1a0533?style=flat-square&logo=wordpress&logoColor=a78bfa)
-![Elementor](https://img.shields.io/badge/Elementor-1a0533?style=flat-square&logo=elementor&logoColor=a78bfa)
-![VS Code](https://img.shields.io/badge/VS_Code-1a0533?style=flat-square&logo=visual-studio-code&logoColor=a78bfa)
-
-### Currently Learning
-
-![React](https://img.shields.io/badge/React-0d0d0d?style=flat-square&logo=react&logoColor=c084fc)
-![DSA](https://img.shields.io/badge/DSA_with_Python-0d0d0d?style=flat-square&logo=python&logoColor=c084fc)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shafquat-/)
+[![GitHub](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShafquatAhmad)
 
 </div>
 
@@ -32,28 +17,78 @@
 
 <div align="center">
 
-## 📊 Statistics
+<h2>About me</h2>
+
+Hello, I'm **Shafquat Ahmad** — a Frontend Developer focused on building clean, scalable web applications.
+I value learning, open source, and long-term growth over hype.
+
+<br/>
+
+**BCA Student @ Allenhouse Business School, Kanpur**
+**HTML / CSS / JavaScript / WordPress**
+**GSSoC 2026 Open Source Contributor**
+**Won 2nd Rank & Medal at ASDC**
+
+</div>
+
+---
+
+<div align="center">
+
+<h2>Technologies</h2>
+
+<h3>Core Technologies</h3>
+
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-000000?style=flat&logo=javascript&logoColor=white)
+![Python](https://img.shields.io/badge/PYTHON-000000?style=flat&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-000000?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GITHUB-000000?style=flat&logo=github&logoColor=white)
+
+<br/>
+
+<h3>CMS & Tools</h3>
+
+![WordPress](https://img.shields.io/badge/WORDPRESS-000000?style=flat&logo=wordpress&logoColor=white)
+![Elementor](https://img.shields.io/badge/ELEMENTOR-000000?style=flat&logo=elementor&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_CODE-000000?style=flat&logo=visual-studio-code&logoColor=white)
+
+<br/>
+
+<h3>Currently Learning</h3>
+
+![React](https://img.shields.io/badge/REACT-000000?style=flat&logo=react&logoColor=white)
+![DSA](https://img.shields.io/badge/DSA_WITH_PYTHON-000000?style=flat&logo=python&logoColor=white)
+
+</div>
+
+---
+
+<div align="center">
+
+<h2>Statistics</h2>
 
 <table>
 <tr>
 <td width="50%" align="center">
   <h4>Most Used Languages</h4>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShafquatAhmad&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=c084fc&text_color=a78bfa&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShafquatAhmad&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&langs_count=8" alt="Top Languages" />
 </td>
 <td width="50%" align="center">
   <h4>GitHub Stats</h4>
-  <img src="https://github-readme-stats.vercel.app/api?username=ShafquatAhmad&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=c084fc&text_color=a78bfa&icon_color=c084fc" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ShafquatAhmad&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" alt="GitHub Stats" />
 </td>
 </tr>
 </table>
 
-### 🔥 Contribution Streak
+<h3>Contribution Streak</h3>
 
-<img src="https://streak-stats.demolab.com?user=ShafquatAhmad&theme=dark&hide_border=true&background=0d0d0d&ring=c084fc&fire=a78bfa&currStreakLabel=c084fc&sideLabels=a78bfa&dates=6d28d9&stroke=2d1b69" width="65%" />
+<img src="https://streak-stats.demolab.com?user=ShafquatAhmad&theme=dark&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&stroke=ffffff" alt="GitHub Streak" />
 
-### 📈 Contribution Graph
+<h3>Contribution Graph</h3>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShafquatAhmad&bg_color=0d0d0d&color=c084fc&line=6d28d9&point=c084fc&area_color=2d1b69&area=true&hide_border=true&custom_title=Shafquat%20Ahmad's%20Contribution%20Graph" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShafquatAhmad&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area_color=ffffff&area=true&hide_border=true&custom_title=Shafquat%20Ahmad's%20Contribution%20Graph" alt="Activity Graph" width="100%" />
 
 </div>
 
@@ -61,19 +96,17 @@
 
 <div align="center">
 
-### 💬 Random Dev Quote
+<h3>Random Dev Quote</h3>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
 
-### 👁️ Visitor Count
+<h3>Visitor Count</h3>
 
-![](https://komarev.com/ghpvc/?username=ShafquatAhmad&color=6d28d9&style=flat-square&label=Profile+Views)
+![](https://komarev.com/ghpvc/?username=ShafquatAhmad&color=000000&style=flat-square&label=Profile+Views)
 
 ---
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d1b69,50:1a0533,100:0d0d0d&height=100&section=footer" />
 
 <sub>⭐️ From <a href="https://github.com/ShafquatAhmad">ShafquatAhmad</a> with ❤️</sub>
 
