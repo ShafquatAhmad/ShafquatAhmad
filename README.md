@@ -1,16 +1,12 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ShafquatAhmad/ShafquatAhmad/main/banner.jpg" alt="Shafquat Ahmad" width="100%" style="border-radius:0px" />
+<img src="https://raw.githubusercontent.com/ShafquatAhmad/ShafquatAhmad/main/banner.jpg" alt="Shafquat Ahmad" width="100%" />
+
+<br/><br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=👋+Welcome+to+Shafquat's+GitHub!;Frontend+Developer+%7C+BCA+Student;GSSoC+2026+Open+Source+Contributor;HTML+%7C+CSS+%7C+JavaScript+%7C+WordPress)](https://git.io/typing-svg)
 
 <br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Welcome+to+Shafquat's+GitHub!+👋;Frontend+Developer+%7C+BCA+Student;GSSoC+2026+Open+Source+Contributor;HTML+%7C+CSS+%7C+JavaScript+%7C+WordPress)](https://git.io/typing-svg)
-
-</div>
-
-<div align="center">
-
-### 🔗 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-7c3aed?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shafquat-/)
 [![GitHub](https://img.shields.io/badge/GITHUB-4c1d95?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShafquatAhmad)
@@ -68,20 +64,11 @@ I value learning, open source, and long-term growth over hype.
 
 <div align="center">
 
-## 📊 Statistics
+## 📊 GitHub Stats
 
-<table>
-<tr>
-<td width="50%" align="center">
-  <h4>Most Used Languages</h4>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShafquatAhmad&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=a855f7&text_color=c4b5fd&langs_count=8" />
-</td>
-<td width="50%" align="center">
-  <h4>GitHub Stats</h4>
-  <img src="https://github-readme-stats.vercel.app/api?username=ShafquatAhmad&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=a855f7&text_color=c4b5fd&icon_color=a855f7" />
-</td>
-</tr>
-</table>
+<img src="https://github-readme-stats.vercel.app/api?username=ShafquatAhmad&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=a855f7&text_color=c4b5fd&icon_color=a855f7" width="48%" />
+
+<br/><br/>
 
 ### 🔥 Contribution Streak
 
@@ -103,7 +90,7 @@ I value learning, open source, and long-term growth over hype.
 
 ---
 
-### 👁️ Visitor Count
+### 👁️ Profile Views
 
 ![Views](https://komarev.com/ghpvc/?username=ShafquatAhmad&color=7c3aed&style=for-the-badge&label=Profile+Views)
 
