@@ -1,8 +1,7 @@
 <div align="center">
 <img 
-  src="https://raw.githubusercontent.com/ShafquatAhmad/ShafquatAhmad/main/banner.jpg"
-  alt="Shafquat Ahmad Banner"
-  width="100%"
+  src="https://raw.githubusercontent.com/ShafquatAhmad/ShafquatAhmad/main/banner.jpg" alt="Shafquat Ahmad Banner" width="100%" 
+  alt="Welcome animation"
 />
 
 ---
@@ -71,23 +70,14 @@ I value learning, open source, and long-term growth over hype.
 <h2>Statistics</h2>
 
 <table>
-<table>
 <tr>
 <td width="50%" align="center">
- <h3>Languages & Technologies</h3>
-
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
-</p>
+  <h4>Most Used Languages</h4>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShafquatAhmad&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&langs_count=8" alt="Top Languages" />
+</td>
 <td width="50%" align="center">
   <h4>GitHub Stats</h4>
-  <img 
-    src="https://github-readme-stats-two-beta-28.vercel.app/api?username=ShafquatAhmad&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff"
-    alt="GitHub Stats"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ShafquatAhmad&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" alt="GitHub Stats" />
 </td>
 </tr>
 </table>
