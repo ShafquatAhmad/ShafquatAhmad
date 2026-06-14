@@ -73,7 +73,7 @@ I value learning, open source, and long-term growth over hype.
 <tr>
 <td width="50%" align="center">
   <h4>Most Used Languages</h4>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShafquatAhmad&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShafquatAhmad&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&langs_count=8&count_private=true&include_all_commits=true" alt="Top Languages" />
 </td>
 <td width="50%" align="center">
   <h4>GitHub Stats</h4>
