@@ -1,12 +1,16 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ShafquatAhmad/ShafquatAhmad/main/banner.jpg" alt="Shafquat Ahmad Banner" width="100%" />
-</div>
+  <img 
+    src="https://raw.githubusercontent.com/ShafquatAhmad/ShafquatAhmad/main/banner.jpg" 
+    alt="Shafquat Ahmad Banner" 
+    width="100%" 
+  />
 
-<br/>
+  <br/><br/>
 
-<!-- TYPING ANIMATION -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Shafquat+Ahmad+%F0%9F%91%8B;Frontend+Developer;Open+Source+Contributor" alt="Typing SVG" />
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=FFFFFF&center=true&vCenter=true&width=520&lines=Hi%2C+I'm+Shafquat+Ahmad;Frontend+Developer;Open+Source+Contributor" 
+    alt="Typing SVG" 
+  />
 </div>
 
 ---
@@ -15,8 +19,12 @@
 
 <h3>Connect with me</h3>
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shafquat-/)
-[![GitHub](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShafquatAhmad)
+<a href="https://www.linkedin.com/in/shafquat-/">
+  <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://github.com/ShafquatAhmad">
+  <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
 
 </div>
 
@@ -31,9 +39,9 @@ I value learning, open source, and long-term growth over hype.
 
 <br/>
 
-**BCA Student @ Allenhouse Business School, Kanpur**  
-**HTML / CSS / JavaScript / WordPress**  
-**GSSoC 2026 Open Source Contributor**  
+**BCA Student @ Allenhouse Business School, Kanpur** <br/>
+**HTML / CSS / JavaScript / WordPress** <br/>
+**GSSoC 2026 Open Source Contributor** <br/>
 **Won 2nd Rank & Medal at ASDC**
 
 </div>
@@ -53,7 +61,7 @@ I value learning, open source, and long-term growth over hype.
 ![Git](https://img.shields.io/badge/GIT-000000?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GITHUB-000000?style=flat&logo=github&logoColor=white)
 
-<br/>
+<br/><br/>
 
 <h3>CMS & Tools</h3>
 
@@ -61,7 +69,7 @@ I value learning, open source, and long-term growth over hype.
 ![Elementor](https://img.shields.io/badge/ELEMENTOR-000000?style=flat&logo=elementor&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_CODE-000000?style=flat&logo=visual-studio-code&logoColor=white)
 
-<br/>
+<br/><br/>
 
 <h3>Currently Learning</h3>
 
@@ -84,7 +92,7 @@ I value learning, open source, and long-term growth over hype.
 </td>
 <td width="50%" align="center">
   <h4>GitHub Stats</h4>
-  <img src="https://github-readme-stats.vercel.app/api?username=ShafquatAhmad&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ShafquatAhmad&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" alt="GitHub Stats" />
 </td>
 </tr>
 </table>
@@ -96,12 +104,6 @@ I value learning, open source, and long-term growth over hype.
 <h3>Contribution Graph</h3>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShafquatAhmad&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area_color=ffffff&area=true&hide_border=true&custom_title=Shafquat%20Ahmad's%20Contribution%20Graph" alt="Activity Graph" width="100%" />
-
-<br/><br/>
-
-<h3>Contribution Snake</h3>
-
-<img src="https://raw.githubusercontent.com/ShafquatAhmad/ShafquatAhmad/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%" />
 
 </div>
 
@@ -122,5 +124,9 @@ I value learning, open source, and long-term growth over hype.
 ---
 
 <sub>⭐️ From <a href="https://github.com/ShafquatAhmad">ShafquatAhmad</a> with ❤️</sub>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:222222&height=90&section=footer" width="100%" />
 
 </div>
