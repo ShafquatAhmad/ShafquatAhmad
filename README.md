@@ -1,30 +1,18 @@
 <div align="center">
-  <img 
-    src="https://raw.githubusercontent.com/ShafquatAhmad/ShafquatAhmad/main/banner.jpg" 
-    alt="Shafquat Ahmad Banner" 
-    width="100%" 
-  />
+<!-- ANIMATED DYNAMIC HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=150&section=header&text=Shafquat%20Ahmad&fontSize=50&animation=fadeIn&fontAlignY=40" width="100%" />
 
-  <br/><br/>
+<br/>
 
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=FFFFFF&center=true&vCenter=true&width=520&lines=Hi%2C+I'm+Shafquat+Ahmad;Frontend+Developer;Open+Source+Contributor" 
-    alt="Typing SVG" 
-  />
-</div>
-
----
-
-<div align="center">
-
-<h3>Connect with me</h3>
-
-<a href="https://www.linkedin.com/in/shafquat-/">
-  <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
+<!-- TYPING EFFECT (The only real animation possible in Markdown) -->
 <a href="https://github.com/ShafquatAhmad">
-  <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Frontend+Developer;WordPress+Expert;Open+Source+Contributor" alt="Typing SVG" />
 </a>
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shafquat-/)
+[![GitHub](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShafquatAhmad)
 
 </div>
 
@@ -39,9 +27,9 @@ I value learning, open source, and long-term growth over hype.
 
 <br/>
 
-**BCA Student @ Allenhouse Business School, Kanpur** <br/>
-**HTML / CSS / JavaScript / WordPress** <br/>
-**GSSoC 2026 Open Source Contributor** <br/>
+**BCA Student @ Allenhouse Business School, Kanpur**  
+**HTML / CSS / JavaScript / WordPress**  
+**GSSoC 2026 Open Source Contributor**  
 **Won 2nd Rank & Medal at ASDC**
 
 </div>
@@ -52,29 +40,12 @@ I value learning, open source, and long-term growth over hype.
 
 <h2>Technologies</h2>
 
-<h3>Core Technologies</h3>
-
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-000000?style=flat&logo=javascript&logoColor=white)
-![Python](https://img.shields.io/badge/PYTHON-000000?style=flat&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-000000?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GITHUB-000000?style=flat&logo=github&logoColor=white)
-
-<br/><br/>
-
-<h3>CMS & Tools</h3>
-
-![WordPress](https://img.shields.io/badge/WORDPRESS-000000?style=flat&logo=wordpress&logoColor=white)
-![Elementor](https://img.shields.io/badge/ELEMENTOR-000000?style=flat&logo=elementor&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_CODE-000000?style=flat&logo=visual-studio-code&logoColor=white)
-
-<br/><br/>
-
-<h3>Currently Learning</h3>
-
-![React](https://img.shields.io/badge/REACT-000000?style=flat&logo=react&logoColor=white)
-![DSA](https://img.shields.io/badge/DSA_WITH_PYTHON-000000?style=flat&logo=python&logoColor=white)
+<!-- SKILL ICONS WITH FLOATING EFFECT (Visual trick) -->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,python,wordpress,react,git,github,vscode&theme=dark" />
+  </a>
+</p>
 
 </div>
 
@@ -84,26 +55,14 @@ I value learning, open source, and long-term growth over hype.
 
 <h2>Statistics</h2>
 
-<table>
-<tr>
-<td width="50%" align="center">
-  <h4>Most Used Languages</h4>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShafquatAhmad&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&langs_count=8&count_private=true&include_all_commits=true" alt="Top Languages" />
-</td>
-<td width="50%" align="center">
-  <h4>GitHub Stats</h4>
-  <img src="https://github-readme-stats.vercel.app/api?username=ShafquatAhmad&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" alt="GitHub Stats" />
-</td>
-</tr>
-</table>
+<!-- STATS CARDS WITH GHOST THEME (Looks much cleaner/modern) -->
+<img src="https://github-readme-stats.vercel.app/api?username=ShafquatAhmad&show_icons=true&theme=transparent&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShafquatAhmad&layout=compact&theme=transparent&title_color=ffffff&text_color=ffffff&hide_border=true" width="48%" />
 
-<h3>Contribution Streak</h3>
+<br/>
 
-<img src="https://streak-stats.demolab.com?user=ShafquatAhmad&theme=dark&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&stroke=ffffff" alt="GitHub Streak" />
-
-<h3>Contribution Graph</h3>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShafquatAhmad&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area_color=ffffff&area=true&hide_border=true&custom_title=Shafquat%20Ahmad's%20Contribution%20Graph" alt="Activity Graph" width="100%" />
+<!-- STREAK WITH DARK THEME -->
+<img src="https://streak-stats.demolab.com?user=ShafquatAhmad&theme=dark&hide_border=true&background=00000000&ring=ffffff&fire=ffffff" width="100%" />
 
 </div>
 
@@ -111,22 +70,16 @@ I value learning, open source, and long-term growth over hype.
 
 <div align="center">
 
-<h3>Random Dev Quote</h3>
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
----
-
 <h3>Visitor Count</h3>
-
-![](https://komarev.com/ghpvc/?username=ShafquatAhmad&color=000000&style=flat-square&label=Profile+Views)
+<img src="https://komarev.com/ghpvc/?username=ShafquatAhmad&color=000000&style=flat-square&label=Profile+Views" />
 
 ---
 
 <sub>⭐️ From <a href="https://github.com/ShafquatAhmad">ShafquatAhmad</a> with ❤️</sub>
 
-<br/><br/>
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:222222&height=90&section=footer" width="100%" />
+<!-- ANIMATED FOOTER WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer" width="100%" />
 
 </div>
